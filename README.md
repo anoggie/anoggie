@@ -2,7 +2,7 @@
 
 ## `$ whoami`
 
-- ✨ I'm 19 years old;
+- ✨ I'm 20 years old;
 - 🇧🇷 Brazilian;
 - 💻 Programmer student;
 - 🛜 Majoring in Computer Networks;
