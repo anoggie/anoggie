@@ -6,7 +6,7 @@
 - 🇧🇷 Brazilian;
 - 💻 Programmer student;
 - 🛜 Majoring in Computer Networks;
-- ⚛️ My main OS is Linux, but eventually I use Windows;
+- ⚛️ My main OS is Linux;
 - ☕ Every time it's coffee time!
 
 ## `$ grep 'experiences'`
