@@ -1,5 +1,3 @@
-![Banner GH 2](https://github.com/user-attachments/assets/c6d234a3-c337-462c-a308-61a0b9988909)
-
 ## `$ whoami`
 
 - ✨ I'm 21 years old and from 🇧🇷 Brazil;
